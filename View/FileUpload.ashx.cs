@@ -291,7 +291,7 @@ namespace PDF_Demo
                 }
 
                 context.Response.ContentType = "text/plain";
-                context.Response.Write("Excel file created in c drive");
+                context.Response.Write("Excel file created");
 
                 //context.Response.ContentType = "text/plain";
                 //context.Response.Write("File(s) uploaded successfully!");
